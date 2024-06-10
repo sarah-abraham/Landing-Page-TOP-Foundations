@@ -119,3 +119,25 @@ a{
     border-radius: 10%;
     margin-bottom: 5%;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%
+}
+
+.quote-text{
+    font-size: 30px;
+    font-style: italic;
+    color: #1F2937;
+    width: 40%;
+    margin-bottom: 2%;
+}
+
+.quote-author{
+    margin-left: 30%;
+    font-weight: 700;
+}
